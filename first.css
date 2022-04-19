@@ -1,0 +1,39 @@
+div.div2
+{
+    color: hsl(218,44%,22%); 
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+div.div3
+{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   color: hsl(220,15%,55%); 
+}
+div.box 
+{
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    width: 380px;
+    height: 580px;
+    font-weight: 400;
+    border-radius: 5mm;
+}
+div.box1
+{
+    width: 350px;
+}
+body
+{
+    display: flex;
+    justify-content: center;
+    height: 905px;
+    background-color: hsl(220,45%,89%);
+    align-items: center;
+    text-align: center;
+}
+img
+{
+height: 350px;
+border-radius: 5mm;
+}
